@@ -7,5 +7,5 @@ var kittens = ["Milo", "Otis", "Garfield"];
 // }
 
 function destructivelyAppendKitten(name) {
-  v.push(name);
+  kittens.push(name);
 }
