@@ -1,10 +1,11 @@
 const app = "I don't do much."
+var kittens = ["Milo", "Otis", "Garfield"];
 
-function kittens(v) {
-  var kittens = ["Milo", "Otis", "Garfield"];
-  return kittens;
-}
+// function kittens(v) {
+//   var kittens = ["Milo", "Otis", "Garfield"];
+//   return kittens;
+// }
 
-function destructivelyAppendKitten(v, e) {
-  v.push(e);
+function destructivelyAppendKitten(name) {
+  v.push(name);
 }
