@@ -1,6 +1,6 @@
 const app = "I don't do much."
 
-function kittens(v){
+function kittens(v) {
   var kittens = ["Milo", "Otis", "Garfield"];
   return kittens;
 }
